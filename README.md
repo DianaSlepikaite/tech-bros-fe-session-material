@@ -1,5 +1,10 @@
 # tech-bros-fe-session-material
 
+## QR
+QR for this repository
+
+![QR Code](materials/qr.png)
+
 ## Workbook
 The workbook describes the flow of the hackathon session, provides steps, materials and requirements
 
